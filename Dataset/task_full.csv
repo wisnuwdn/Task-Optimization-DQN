@@ -1,0 +1,201 @@
+task_name,Mathematics,Statistics & Probabilities,Data Structures & Algorithms,Econometrics,Machine Learning,Deep Learning,Data & Cloud Engineering,MLOPS,story_points
+"Collect customer usage data from mobile apps",1,0,2,0,0,0,3,1,3
+"Gather transaction data from billing systems",1,0,2,0,0,0,3,1,2
+"Retrieve network performance data from edge devices",1,0,2,0,0,0,3,1,3
+"Extract support interaction logs from call centers",1,0,2,0,0,0,3,1,2
+"Collect social media engagement data for customers",1,0,2,0,0,0,3,1,3
+"Gather real-time IoT device usage metrics",1,0,2,0,0,0,4,2,5
+"Clean usage data for inconsistencies",1,2,1,1,0,0,1,0,3
+"Standardize formats across multi-source datasets",1,1,1,0,0,0,1,0,2
+"Merge datasets into a unified schema",1,1,2,0,0,0,2,1,5
+"Create time-series aggregates for usage trends",2,2,2,1,0,0,1,0,5
+"Validate data integrity across sources",1,2,1,1,0,0,1,0,3
+"Set up a real-time data streaming pipeline",0,0,2,0,0,0,4,2,8
+"Implement feature extraction for behavioral signals",2,2,2,1,1,0,1,0,5
+"Build a data quality audit tool",1,2,1,0,0,0,2,1,3
+"Handle multi-language support data preprocessing",1,1,2,0,0,0,2,0,5
+"Design a scalable data warehouse architecture",0,0,2,0,0,0,4,3,8
+"Integrate third-party market data",1,1,2,0,0,0,3,1,5
+"Process geospatial data from network towers",2,1,2,0,0,0,2,0,5
+"Analyze app usage patterns for churn signals",1,3,1,1,2,0,0,0,5
+"Identify churn indicators from billing disputes",1,2,0,2,1,0,0,0,3
+"Build logistic regression for churn prediction",2,3,1,1,3,0,0,0,8
+"Train a gradient boosting model for churn risk",2,3,1,1,4,0,0,0,13
+"Evaluate models across customer segments",1,3,0,1,3,0,0,0,5
+"Tune hyperparameters for churn accuracy",1,2,0,0,3,0,0,0,5
+"Visualize churn risks in a multi-channel dashboard",0,1,1,0,1,0,2,1,3
+"Design retention offers for app users",0,1,0,2,1,0,0,0,2
+"Automate SMS-based retention campaigns",0,0,2,0,1,0,2,2,5
+"Test email retention strategies with A/B testing",1,2,0,1,1,0,0,0,5
+"Analyze social media sentiment for churn risk",1,2,1,0,2,1,0,0,5
+"Integrate churn predictions into CRM workflows",0,0,1,0,2,0,3,2,8
+"Develop a multi-channel churn alert system",0,0,2,0,1,0,2,2,5
+"Create a feedback loop for retention outcomes",1,2,1,0,1,0,1,1,3
+"Analyze churn trends across regions",1,3,0,1,1,0,0,0,5
+"Build a churn risk scoring API",1,1,2,0,2,0,2,2,5
+"Test churn prevention on high-value customers",1,2,0,1,2,0,0,0,8
+"Monitor churn prediction drift over time",1,2,0,0,2,0,1,2,5
+"Analyze traffic patterns by geographic zones",1,3,1,0,1,0,0,0,5
+"Build ARIMA model for hourly traffic forecasts",3,4,0,2,1,0,0,0,13
+"Develop LSTM for multi-day traffic predictions",2,3,1,0,3,4,0,0,20
+"Compare forecasting models across regions",1,3,0,0,2,1,0,0,5
+"Simulate capacity needs for peak events",2,2,3,1,0,0,1,0,8
+"Integrate forecasting into capacity planning tools",0,0,1,0,1,0,3,2,5
+"Automate bandwidth allocation adjustments",1,1,2,0,1,0,3,2,8
+"Set up real-time congestion alerts",0,1,1,0,1,0,2,2,3
+"Monitor forecasting accuracy with live data",1,2,0,0,1,0,0,0,3
+"Document traffic prediction methodologies",1,1,1,1,1,1,1,1,2
+"Create spatial-temporal traffic heatmaps",2,2,2,0,1,0,1,0,5
+"Optimize tower placement based on forecasts",3,2,2,1,0,0,1,0,8
+"Test forecasting under network stress conditions",1,2,1,0,1,0,2,1,5
+"Build a traffic anomaly detection sub-system",1,3,1,0,3,1,0,0,8
+"Automate traffic rerouting protocols",1,1,3,0,1,0,2,2,8
+"Simulate 5G rollout impact on traffic",2,2,2,1,1,0,2,0,8
+"Analyze fraud patterns in call logs",1,3,1,0,2,0,0,0,5
+"Create rule-based detection for SIM cloning",1,2,2,0,1,0,1,1,3
+"Build anomaly detection for usage spikes",1,3,1,0,4,2,0,0,13
+"Train XGBoost model for fraud classification",1,3,1,0,4,1,0,0,13
+"Evaluate fraud models with historical data",1,3,0,0,3,0,0,0,5
+"Monitor fraud in real-time across networks",0,1,1,0,2,0,3,3,8
+"Automate account suspension for fraud cases",0,0,2,0,1,0,2,2,5
+"Build a fraud review dashboard for analysts",0,1,1,0,1,0,2,2,3
+"Audit fraud detection system effectiveness",1,2,1,0,2,0,0,1,5
+"Update fraud rules with emerging threats",1,2,1,0,2,0,0,1,3
+"Predict fraud trends with time-series analysis",2,3,0,1,2,0,0,0,8
+"Integrate fraud alerts with security teams",0,0,1,0,1,0,2,2,5
+"Simulate fraud scenarios for testing",1,2,1,0,2,0,1,0,5
+"Track cross-network fraud patterns",1,3,1,0,2,0,1,0,8
+"Develop a fraud risk scoring system",1,2,1,0,3,0,1,1,5
+"Automate fraud case escalation workflows",0,0,2,0,1,0,2,2,5
+"Preprocess chat logs for text analysis",1,2,1,0,1,1,1,0,3
+"Design intent recognition for billing queries",1,2,1,0,2,3,0,0,8
+"Train transformer model for text responses",1,2,1,0,3,4,0,1,20
+"Integrate chatbot with website platform",0,0,2,0,1,1,3,2,8
+"Collect user feedback on chatbot interactions",0,1,0,0,1,0,1,1,2
+"Refine chatbot responses with sentiment data",1,2,1,0,2,3,0,1,5
+"Enable human agent handoff for complex issues",0,0,2,0,1,1,2,1,3
+"Monitor chatbot resolution rates",0,1,0,0,1,0,1,2,2
+"Create a multi-language support knowledge base",1,1,1,1,1,1,1,1,3
+"Test chatbot usability with focus groups",0,1,0,0,1,1,1,1,2
+"Build voice recognition for call center support",1,2,1,0,2,3,0,0,13
+"Train NLP model for voice-to-text conversion",1,2,1,0,3,4,0,1,20
+"Integrate voice chatbot with IVR systems",0,0,2,0,1,1,3,2,8
+"Analyze voice sentiment for customer mood",1,2,1,0,2,3,0,0,8
+"Automate follow-up messages post-interaction",0,0,2,0,1,0,2,1,3
+"Test multi-modal chatbot performance",1,2,1,0,2,2,1,1,5
+"Preprocess network metrics for analysis",1,2,1,0,0,0,1,0,3
+"Establish baseline for normal network behavior",1,3,1,0,1,0,0,0,5
+"Build autoencoder for anomaly detection",2,2,1,0,3,4,0,0,13
+"Train clustering model for anomaly grouping",1,2,1,0,3,2,0,0,8
+"Evaluate anomaly detection accuracy",1,3,0,0,3,1,0,0,5
+"Enable real-time anomaly monitoring",0,0,1,0,2,0,3,2,8
+"Automate root cause analysis for failures",1,2,2,0,3,1,1,1,8
+"Set up predictive maintenance alerts",0,0,1,0,1,0,2,2,3
+"Review anomaly detection with live data",0,2,0,0,2,1,0,1,3
+"Update models with new network patterns",1,2,1,0,3,2,0,1,5
+"Simulate failure scenarios for testing",1,2,1,0,2,0,1,0,5
+"Predict equipment maintenance schedules",2,3,0,1,2,0,1,0,8
+"Analyze anomaly impact on customer service",1,2,0,0,1,0,0,0,3
+"Integrate anomaly alerts with field teams",0,0,1,0,1,0,2,2,3
+"Build a network health dashboard",0,1,1,0,1,0,2,2,5
+"Test predictive maintenance workflows",1,2,1,0,2,0,2,1,5
+"Deploy churn model to CRM system",0,0,1,0,2,0,3,4,13
+"Link traffic models to network controllers",0,0,1,0,1,0,3,2,5
+"Embed fraud detection in billing systems",0,0,1,0,2,0,3,3,8
+"Launch text chatbot on customer app",0,0,1,0,1,1,3,2,5
+"Integrate anomaly detection with monitoring tools",0,0,1,0,1,0,3,2,5
+"Ensure scalability for peak loads",0,0,1,0,1,0,4,3,8
+"Set up real-time APIs for model outputs",0,0,2,0,0,0,4,3,5
+"Test system integration under stress",0,0,1,0,0,0,4,2,5
+"Control model versions across deployments",0,0,0,0,0,0,1,3,3
+"Plan rollback procedures for failures",0,0,0,0,0,0,1,2,2
+"Integrate voice chatbot with call centers",0,0,1,0,1,1,3,2,5
+"Deploy predictive maintenance to operations",0,0,1,0,1,0,3,2,5
+"Link retention offers to marketing platforms",0,0,1,0,1,0,2,2,3
+"Test cross-system data flow integrity",0,0,1,0,0,0,3,2,5
+"Automate deployment pipeline triggers",0,0,1,0,0,0,2,3,5
+"Integrate with third-party analytics tools",0,0,1,0,0,0,3,2,5
+"Monitor churn model performance metrics",0,1,0,0,2,0,1,3,3
+"Detect data drift in traffic forecasts",1,2,0,0,2,0,1,2,5
+"Check system health for fraud detection",0,0,1,0,0,0,3,2,3
+"Gather ongoing chatbot feedback",0,1,0,0,1,0,1,1,2
+"Schedule maintenance for all models",0,0,0,0,0,0,1,2,3
+"Automate retraining for churn predictions",0,0,1,0,2,0,2,4,8
+"Create dashboards for system performance",0,1,1,0,1,0,2,2,3
+"Review system KPIs quarterly",1,2,0,0,2,0,1,2,5
+"Update fraud rules with new data",1,2,1,0,2,0,0,1,3
+"Enhance chatbot with user insights",1,2,1,0,2,3,0,1,5
+"Test A/B variants of churn interventions",1,2,0,1,2,0,0,0,5
+"Monitor network anomaly trends",1,2,0,0,2,0,0,0,3
+"Adjust traffic models for 5G adoption",1,2,1,0,2,1,0,0,5
+"Automate drift correction workflows",0,0,1,0,2,0,2,3,5
+"Evaluate long-term system stability",1,2,0,0,2,0,1,2,5
+"Plan continuous improvement sprints",1,1,1,1,1,1,1,1,3
+"Document data preprocessing pipelines",1,1,1,1,1,1,1,1,2
+"Write detailed model architecture guides",1,1,1,1,2,1,1,1,3
+"Create chatbot operational manuals",0,1,0,0,1,1,1,1,2
+"Record deployment processes step-by-step",0,0,1,0,1,0,2,2,3
+"Draft network monitoring procedures",1,1,1,1,1,1,1,1,3
+"Train data science team on new tools",1,1,1,1,2,1,1,1,5
+"Host workshops for support staff",0,1,0,0,1,1,1,1,3
+"Develop onboarding materials for analysts",1,1,1,1,1,1,1,1,2
+"Build a troubleshooting knowledge base",1,1,1,1,1,1,1,1,3
+"Version-control all documentation",0,0,1,0,0,0,1,1,2
+"Document fraud detection workflows",1,1,1,1,2,0,1,1,3
+"Train marketing on retention strategies",0,1,0,1,1,0,0,0,2
+"Create regulatory compliance guides",1,1,1,1,1,1,1,1,3
+"Share insights with network engineers",1,1,1,0,1,0,1,0,2
+"Conduct cross-departmental briefings",1,1,1,1,1,1,1,1,3
+"Update docs with post-deployment notes",1,1,1,1,1,1,1,1,2
+"Define KPIs for churn reduction",1,2,0,1,1,0,0,0,3
+"Collect data on traffic optimization impact",1,1,1,0,1,0,1,1,5
+"Measure fraud prevention savings",1,2,0,0,1,0,0,0,3
+"Assess chatbot efficiency gains",0,1,0,0,1,0,1,1,2
+"Evaluate anomaly detection success",1,2,0,0,2,0,0,0,5
+"Compile comprehensive project report",1,1,0,0,1,0,0,0,5
+"Present outcomes to leadership",0,1,0,0,1,0,0,0,3
+"Identify areas for future improvement",1,2,0,0,2,0,0,0,5
+"Archive project data and findings",0,0,1,0,0,0,1,1,2
+"Analyze long-term ROI of solutions",1,2,0,1,1,0,0,0,5
+"Report on customer satisfaction trends",1,2,0,0,1,0,0,0,3
+"Evaluate network uptime improvements",1,2,0,0,1,0,0,0,3
+"Assess cross-departmental benefits",1,1,0,1,1,0,0,0,3
+"Recommend strategic next steps",1,1,0,1,1,0,0,0,3
+"Conduct a post-mortem analysis",1,1,0,0,1,0,0,0,3
+"Segment customers by usage patterns",1,3,1,0,3,0,0,0,8
+"Cluster customers by demographic data",1,3,1,0,3,0,0,0,8
+"Build RFM model for customer value",2,3,1,1,2,0,0,0,8
+"Train unsupervised model for segmentation",1,2,1,0,3,0,0,0,8
+"Evaluate segment stability over time",1,3,0,0,2,0,0,0,5
+"Design personalized offers per segment",0,1,0,2,1,0,0,0,3
+"Optimize offers with reinforcement learning",2,2,1,1,4,0,0,0,13
+"Test offer effectiveness with A/B testing",1,2,0,1,2,0,0,0,5
+"Integrate segmentation into CRM",0,0,1,0,2,0,2,2,5
+"Monitor segment shifts monthly",1,2,0,0,1,0,0,0,3
+"Automate offer adjustments for segments",0,0,2,0,2,0,2,2,5
+"Analyze segment profitability impacts",1,2,0,1,1,0,0,0,5
+"Refine segmentation with social data",1,2,1,0,2,0,0,0,5
+"Build a segment visualization tool",0,1,1,0,1,0,2,1,3
+"Test cross-segment retention strategies",1,2,0,1,2,0,0,0,5
+"Audit data collection for GDPR compliance",1,1,1,0,0,0,2,1,5
+"Ensure model outputs meet telecom regulations",1,1,1,0,2,0,1,2,5
+"Document data privacy workflows",1,1,1,1,1,1,1,1,3
+"Set up data access control policies",0,0,2,0,0,0,2,2,5
+"Test systems for regulatory breaches",0,0,1,0,0,0,2,2,3
+"Train staff on compliance requirements",1,1,1,1,1,1,1,1,3
+"Build a compliance monitoring dashboard",0,1,1,0,1,0,2,2,3
+"Automate data retention policies",0,0,2,0,0,0,2,2,5
+"Review fraud detection for legal standards",1,1,1,0,2,0,1,1,3
+"Ensure chatbot adheres to privacy laws",1,1,1,0,1,1,1,1,3
+"Validate network data usage compliance",1,1,1,0,0,0,2,1,3
+"Create a data governance framework",1,1,1,1,1,1,1,1,5
+"Conduct quarterly compliance audits",1,1,0,0,0,0,1,1,3
+"Integrate governance with third-party tools",0,0,1,0,0,0,2,2,3
+"Document compliance for audits",1,1,1,1,1,1,1,1,3
+"Test data anonymization techniques",2,2,1,0,1,0,1,0,5
+"Update policies with new regulations",1,1,1,1,1,1,1,1,3
+"Train legal team on data processes",1,1,1,1,1,1,1,1,2
+"Automate compliance reporting",0,0,1,0,0,0,2,2,3
+"Review cross-border data transfer rules",1,1,1,0,0,0,1,1,3
+"Simulate regulatory violation scenarios",1,1,1,0,1,0,1,0,5
+"Finalize governance documentation",1,1,1,1,1,1,1,1,3
